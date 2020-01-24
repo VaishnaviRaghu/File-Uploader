@@ -3,8 +3,8 @@
     "type": "library",
     "description": "File Upload functionality.",
     "keywords": [
-        ":wkuploader",
-        ":file-upload"
+        "wkuploader",
+        "file-upload"
     ],
     "homepage": "https://github.com/VaishnaviRaghu/WK-Uploader",
     "license": "MIT",
