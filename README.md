@@ -1,4 +1,4 @@
-# :package_name
+# wkuploader
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -32,14 +32,14 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require :vendor/:package_name
+$ composer require wkuploader/file-upload
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+$upload = new WKUploader\FileUpload\Uploads();
+echo $upload->echoPhrase('Hello, League!');
 ```
 
 ## Change log

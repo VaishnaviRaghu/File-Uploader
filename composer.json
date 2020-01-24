@@ -1,17 +1,17 @@
 {
     "name": "wkuploader/file-upload",
     "type": "library",
-    "description": ":package_description",
+    "description": "File Upload functionality.",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        ":wkuploader",
+        ":file-upload"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/VaishnaviRaghu/WK-Uploader",
     "license": "MIT",
     "authors": [
         {
             "name": "Vaishnavi R",
-            "email": ":vaishnavi.r@impelsys.com"
+            "email": "vaishnavi.r@impelsys.com"
         }
     ],
     "require": {
