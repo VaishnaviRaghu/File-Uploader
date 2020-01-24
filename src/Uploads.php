@@ -1,18 +1,16 @@
 <?php
 
-declare(strict_types=1);
-
-namespace WKUploader\FileUpload;
+namespace WkUploader\FileUpload;
 
 class Uploads
 {
     /**
      * Create a new Skeleton Instance
      */
-    public function __construct()
-    {
-        // constructor body
-    }
+//    public function __construct()
+//    {
+//        // constructor body
+//    }
 
     /**
      * Friendly welcome

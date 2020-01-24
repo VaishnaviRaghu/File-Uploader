@@ -1,6 +1,6 @@
 {
     "name": "wkuploader/file-upload",
-    "type": "library",
+    "type": "symfony-bundle",
     "description": "File Upload functionality.",
     "keywords": [
         "wkuploader",
