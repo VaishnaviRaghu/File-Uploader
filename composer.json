@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "WkUploader\\FileUpload\\": "src"
+            "WkUploader\\FileUpload\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "WkUploader\\FileUpload\\": "tests"
+            "WkUploader\\FileUpload\\": "tests/"
         }
     },
     "scripts": {
