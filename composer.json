@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "File Upload functionality.",
     "keywords": [
-        "wkuploader",
+        "uploader",
         "file-upload"
     ],
     "homepage": "https://github.com/VaishnaviRaghu/File-Uploader",
