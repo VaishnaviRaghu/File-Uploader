@@ -1,17 +1,17 @@
 {
-    "name": "wkuploader/file-upload",
+    "name": "uploader/file-upload",
     "type": "symfony-bundle",
     "description": "File Upload functionality.",
     "keywords": [
         "wkuploader",
         "file-upload"
     ],
-    "homepage": "https://github.com/VaishnaviRaghu/WK-Uploader",
+    "homepage": "https://github.com/VaishnaviRaghu/File-Uploader",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vaishnavi R",
-            "email": "vaishnavi.r@impelsys.com"
+            "name": "Vaishnavi Raghu",
+            "email": "vaishnaviraghu1609@gmail.com"
         }
     ],
     "require": {
